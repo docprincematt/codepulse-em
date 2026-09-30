@@ -1,0 +1,10 @@
+{
+  "name": "CodePulse EM — Code Blue Recorder",
+  "short_name": "CodePulse",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#0b1220",
+  "description": "Nurse training app for Code Blue recording and chest compression fraction (CCF).",
+  "icons": []
+}
